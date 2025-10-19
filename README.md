@@ -12,6 +12,8 @@ Heuristics: Number of pieces outside of the objective position or using the Manh
 - Evaluated algorithms based on solution quality, execution time, and memory efficiency;
 - Included a visual or textual interface to display the board state and illustrate the solving process.
 
+# Screenshots
+
 # How to compile
 Make sure you are in the CogitoGame folder then run the command _python main.py_
 

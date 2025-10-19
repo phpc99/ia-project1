@@ -14,6 +14,24 @@ Heuristics: Number of pieces outside of the objective position or using the Manh
 
 # Screenshots
 
+### Main menu
+![mainmenu](https://github.com/phpc99/ia-project1/blob/main/mainmenu.png)
+
+### Difficulty Selection
+![diffmenu](https://github.com/phpc99/ia-project1/blob/main/difficultymenu.png)
+
+### Algorithm Selection for AI Mode
+![aimode](https://github.com/phpc99/ia-project1/blob/main/aimode.png)
+
+### Easy Mode
+![easy](https://github.com/phpc99/ia-project1/blob/main/game1.png)
+
+### Normal Mode
+![normal](https://github.com/phpc99/ia-project1/blob/main/game2.png)
+
+### Victory
+![end](https://github.com/phpc99/ia-project1/blob/main/end.png)
+
 # How to compile
 Make sure you are in the CogitoGame folder then run the command _python main.py_
 

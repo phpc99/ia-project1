@@ -7,6 +7,6 @@ Heuristics: Number of pieces outside of the objective position or using the Manh
 Make sure you are in the CogitoGame folder then run the command _python main.py_
 
 # Authors
-Afonso Gouveia Dias 
 
-Pedro Henrique Pessôa Camargo
+- Afonso Gouveia Dias 
+- Pedro Henrique Pessôa Camargo
